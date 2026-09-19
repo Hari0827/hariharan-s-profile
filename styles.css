@@ -239,6 +239,13 @@ body {
     color: white;
     border: 5px solid rgba(255, 255, 255, 0.3);
 }
+.img {
+    width: 100%;
+    height: 100%;
+    justify-items:center
+    object-fit: cover;
+    border-radius: 50%;
+}
 
 /* Section Styles */
 section {
